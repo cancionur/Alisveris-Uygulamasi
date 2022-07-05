@@ -14,3 +14,10 @@ Uygulama içeriğinde bulunan işlevler;
 -Sepetteki yemekleri onaylama
 
 ## Uygulama içi Resimler
+
+<p float="left">
+  <img src="/resimler/resim1.png" width="225" />
+  <img src="/resimler/resim2.png" width="225" /> 
+  <img src="/resimler/resim3.png" width="225" />
+</p>
+
