@@ -25,6 +25,9 @@ Uygulama içeriğinde bulunan işlevler;
 
 -Sepetteki yemekleri onaylama
 
+## Uygulama Video Linki 
+
+https://www.youtube.com/watch?v=O5xBbTBY77k
 
 ## Uygulama içi Resimler
 
